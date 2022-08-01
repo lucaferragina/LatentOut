@@ -1,4 +1,4 @@
-# Tensorflow Implementation of LatentOut
+# Tensorflow Implementation of *LatentOut*
 This repository provides a Tensorflow implementation of the *LatentOut* framework for anomaly detection. It is an extension of *VAEOut*, an unsupervised deep anomaly detection method exploiting Variational Autoencoders.
 
 ## Citation and Contact
